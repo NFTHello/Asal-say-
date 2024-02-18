@@ -5,6 +5,7 @@ deenme 4
 deneme 5
 deneme 6
 deneme 7
+deneme 8
 
 print("Bir sayı giriniz : ")
 num = int(input())
