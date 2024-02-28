@@ -13,6 +13,7 @@ deneme 12
 deneme 13
 deneme 14
 deneme 15
+deneme 16
 
 print("Bir sayı giriniz : ")
 num = int(input())
