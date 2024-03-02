@@ -1,4 +1,4 @@
-
+#how to find even numbers
 print("Bir sayı giriniz : ")
 num = int(input())
 
