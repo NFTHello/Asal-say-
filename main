@@ -1,6 +1,6 @@
 #how to find even numbers
 #code started
-print("Bir sayı giriniz : ")
+print("Enter a number: ")
 num = int(input())
 
 p = 0
