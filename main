@@ -12,6 +12,6 @@ while i<num:
     i = i+1
 
 if p==0:
-    print("\n" +str(num)+ " sayısı asal sayıdır.")
+    print("\n" +str(num)+ " this is a prime number.")
 else:
     print("\n" +str(num)+ " sayısı asal sayı değildir.")
