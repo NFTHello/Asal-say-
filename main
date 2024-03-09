@@ -12,6 +12,6 @@ while i<num:
     i = i+1
 
 if p==0:
-    print("\n" +str(num)+ " this is a prime number.")
+    print("\n" +str(num)+ "  prime number.")
 else:
     print("\n" +str(num)+ " this is")
