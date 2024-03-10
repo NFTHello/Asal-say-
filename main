@@ -14,4 +14,4 @@ while i<num:
 if p==0:
     print("\n" +str(num)+ "  prime number.")
 else:
-    print("\n" +str(num)+ " this is")
+    print("\n" +str(num)+ " this is not a prime number")
