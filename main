@@ -4,7 +4,7 @@ print("Enter a number: ")
 num = int(input())
 
 p = 0
-i = 2
+i = 5 #2
 while i<num:
     if num%i == 0:
         p = 1
